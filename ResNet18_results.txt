@@ -1,0 +1,20 @@
+SGD
+Final Train Accuracy: 99.71%
+Final Test Accuracy: 90.91%
+----------------------------------------
+SGD_StepLR
+Final Train Accuracy: 99.83%
+Final Test Accuracy: 90.38%
+----------------------------------------
+SGD_CosineLR
+Final Train Accuracy: 99.99%
+Final Test Accuracy: 92.28%
+----------------------------------------
+Adam
+Final Train Accuracy: 99.60%
+Final Test Accuracy: 91.87%
+----------------------------------------
+RMSprop
+Final Train Accuracy: 99.41%
+Final Test Accuracy: 91.74%
+----------------------------------------
